@@ -1,0 +1,1 @@
+{"check":{"id":"4d1dmfdm0axlg07s71ap","userPhone":"8104731794","protocol":"https","url":"www.facebook.com","method":"get","successCodes":[200,201,400,404],"timeoutSeconds":5,"state":"down","lastChecked":5},"outcome":{"error":false,"reponseCode":302},"state":"down","alert":false,"time":1642957677595}
